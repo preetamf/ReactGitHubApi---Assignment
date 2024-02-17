@@ -1,4 +1,4 @@
-Live link: https://githubapipreetam.netlify.app/
+Live link: https://tangerine-pothos-f95640.netlify.app/
 
 # React GitHub Profile Viewer
 
@@ -24,7 +24,7 @@ This is a React application that allows users to view GitHub user profiles and t
 
 4. **Open your browser:**
 
-Visit `http://localhost:3000` to view the application.
+Click `http://localhost` in the terminal to view the application.
 
 ## Usage
 
