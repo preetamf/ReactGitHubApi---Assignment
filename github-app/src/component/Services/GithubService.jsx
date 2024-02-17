@@ -1,5 +1,5 @@
 import React from 'react'
-
+//fetching user profile service
 const GetUserProfile = async (username) => {
   try {
     const response = await fetch(`https://api.github.com/users/${username}`);

@@ -1,5 +1,5 @@
 import React from 'react'
-
+//fetching repositories service
 const RepoFetchService = async (username, page = 1, perPage = 10) => {
     try {
         const response = await fetch(`https://api.github.com/users/${username}/repos?page=${page}&per_page=${perPage}`);
