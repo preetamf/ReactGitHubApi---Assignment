@@ -1,11 +1,15 @@
-import './App.css'
+import React from "react"
+import Header from "./component/Header/Header"
+import Footer from "./component/Footer/Footer"
+import {Outlet} from "react-router-dom"
 
-function App() {
+const App = () => {
   return (
-    <h1 className="text-3xl font-bold underline">
-      {`Hello world!
-      Let's Build the Project`}
-    </h1>
+    <>
+      <Header />
+      <Outlet />
+      <Footer />
+    </>
   )
 }
 
