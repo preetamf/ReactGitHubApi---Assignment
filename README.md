@@ -1,4 +1,4 @@
-Live link: https://tangerine-pothos-f95640.netlify.app/
+Live link: https://githubapi-preetam.netlify.app/
 
 # React GitHub Profile Viewer
 
